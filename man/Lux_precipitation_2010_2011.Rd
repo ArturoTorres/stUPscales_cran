@@ -24,7 +24,7 @@ An 'xts' object on 2010-01-01/2011-12-31 23:50:00 containing:\cr
 %%  ~~ If necessary, more details than the __description__ above ~~
 %}
 \source{
-\url{http://agrimeteo.lu/}
+\url{https://www.agrimeteo.lu/}
 }
 %\references{
 %%  ~~ possibly secondary sources and usages ~~
