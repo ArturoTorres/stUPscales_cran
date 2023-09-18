@@ -37,6 +37,7 @@ library(xts)
 head(Lux_precipitation_2010_2011)
 tail(Lux_precipitation_2010_2011)
 
-plot(Lux_precipitation_2010_2011)
+## uncomment to run (plot)
+# plot(Lux_precipitation_2010_2011)
 }
 \keyword{datasets}
